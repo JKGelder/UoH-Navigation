@@ -40,9 +40,9 @@ namespace UoH_Navigation_2
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(395, 205);
+            this.button1.Location = new System.Drawing.Point(390, 205);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.Size = new System.Drawing.Size(89, 23);
             this.button1.TabIndex = 0;
             this.button1.Text = "Get Directions";
             this.button1.UseVisualStyleBackColor = true;
@@ -50,6 +50,7 @@ namespace UoH_Navigation_2
             // 
             // selection1
             // 
+            this.selection1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.selection1.FormattingEnabled = true;
             this.selection1.Location = new System.Drawing.Point(221, 164);
             this.selection1.Name = "selection1";
@@ -59,6 +60,7 @@ namespace UoH_Navigation_2
             // 
             // selection2
             // 
+            this.selection2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.selection2.FormattingEnabled = true;
             this.selection2.Location = new System.Drawing.Point(478, 164);
             this.selection2.Name = "selection2";

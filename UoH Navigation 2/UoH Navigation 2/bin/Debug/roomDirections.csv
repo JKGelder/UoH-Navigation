@@ -1,51 +1,52 @@
-﻿building,room,directions,Where from
-wilberforce ,lecture room 3,"asd;asd",
-wilberforce ,lecture room 4,,
-wilberforce ,lecture room 5,,
-wilberforce ,lecture room 6,,
-wilberforce ,lecture room 7,,
-wilberforce ,lecture room 8,,
-wilberforce ,lecture room 9,,
-wilberforce ,lecture room 10,,
-wilberforce ,lecture room 11,,
-wilberforce ,lecture room 12,,
-wilberforce ,lecture room 13,,
-wilberforce ,lecture room 14,,
-wilberforce ,lecture room 15,,
-wilberforce ,lecture room 16,,
-wilberforce ,lecture room 17,,
-wilberforce ,lecture room 18,,
-wilberforce ,lecture room 19,,
-wilberforce ,lecture room 20,,
-wilberforce ,lecture room 21,,
-wilberforce ,lecture room 22,,
-wilberforce ,lecture room 23,,
-wilberforce ,lecture room 24,,
-wilberforce ,lecture room 25,,
-wilberforce ,lecture room 26,,
-wilberforce ,lecture room 27,,
-wilberforce ,lecture room 28,,
-wilberforce ,lecture room 29,,
-wilberforce ,lecture room 30,,
-wilberforce ,lecture theater 15,,
-wilberforce ,lecture theater 12,,
-wilberforce ,lecture theater 31,,
-wilberforce ,lecture theater 29,,
-wilberforce ,FACE hub ,"TL180; go straight; destination in front",looking straight from top of stairs
-wilberforce ,104 computer rooom,"TL180; go straight; destination on right",looking straight from top of stairs
-wilberforce ,101 south east asian museum,"go straight; take first door on left; destination on left",looking straight from top of stairs
-wilberforce ,103 cafe,"go straight (past one door on the left); destination on left",looking straight from top of stairs
-wilberforce ,lecture theater 1,"go straight; destination on right",looking straight from top of stairs
-wilberforce ,lecture theater 2,"go straight (past one door on the right); through 1st and 2nd door; destination on right",looking straight from top of stairs
-wilberforce ,lecture room 32,"go straight (past 2 doors on the left); take  first left; destination on left",looking straight from top of stairs
-wilberforce ,lecture room 33,"go straight (past 2 doors on the left); take first left; destination on right",looking straight from top of stairs
-wilberforce ,lecture room 34,"go straight (past 3 doors on the left); through 1st and 2nd door; destination on left",looking straight from top of stairs
-wilberforce ,DIS FACE hub ,,
-wilberforce ,DIS 104 computer rooom,,
-wilberforce ,DIS 101 south east asian museum,,
-wilberforce ,DIS 103 cafe,,
-wilberforce ,DIS lecture theater 1,,
-wilberforce ,DIS lecture theater 2,,
-wilberforce ,DIS lecture room 32,,
-wilberforce ,DIS lecture room 33,,
-wilberforce ,DIS lecture room 34,,
+building,room,directions,Where from, floor
+wilberforce ,lecture room 3,,,0
+wilberforce ,lecture room 4,,,0
+wilberforce ,lecture room 5,,,0
+wilberforce ,lecture room 6,,,0
+wilberforce ,lecture room 7,,,0
+wilberforce ,lecture room 8,,,0
+wilberforce ,lecture room 9,,,0
+wilberforce ,lecture room 10,,,0
+wilberforce ,lecture room 11,,,0
+wilberforce ,lecture room 12,,,0
+wilberforce ,lecture room 13,,,0
+wilberforce ,lecture room 14,,,0
+wilberforce ,lecture room 15,,,0
+wilberforce ,lecture room 16,go straight; 4 rooms past the stairs; destination on the left,from the main entrence,0
+wilberforce ,lecture room 17,go straight; 5 rooms past the stairs; turn left; turn left; destination on the right,from the main entrence,0
+wilberforce ,lecture room 18,go straight; 5 rooms past the stairs; destination on the left,from the main entrence,0
+wilberforce ,lecture room 19,go straight; 5 rooms past the stairs; turn left; turn right; turn left,from the main entrence,0
+wilberforce ,lecture room 20,go straight; 5 rooms past the stairs; turn left; turn right; continue forward,from the main entrence,0
+wilberforce ,lecture room 21,go straight; 6 rooms past the stairs; keep left; turn left,from the main entrence,0
+wilberforce ,lecture room 22,go straight; 7 rooms past the stairs; turn left; destination on the left,from the main entrence,0
+wilberforce ,lecture room 23,go straight;  8 rooms past the stairs; turn left; destination on the left,from the main entrence,0
+wilberforce ,lecture room 24,go straight; 9 rooms past the stairs; turn left; destination on the left,from the main entrence,0
+wilberforce ,lecture room 25,go straight;  10 rooms past the stairs; turn left; destination on the left,from the main entrence,0
+wilberforce ,lecture room 26,go straight; 9 rooms past the stairs; turn left; destination on the right,from the main entrence,0
+wilberforce ,lecture room 27,go straight; 8 rooms past the stairs; turn right; destination on the left,from the main entrence,0
+wilberforce ,lecture room 28,go straight; 8 rooms past the stairs; turn right; destination on the left,from the main entrence,0
+wilberforce ,lecture room 29,,,0
+wilberforce ,lecture room 30,go straight; 4 rooms past the stairs; turn right; destination on the left,from the main entrence,0
+wilberforce ,lecture theater 15,,,0
+wilberforce ,lecture theater 12,go straight; past the stairs; turn right; destination on the left,from the main entrence,0
+wilberforce ,lecture theater 31,go straight; 4 rooms past the stairs; turn right; destination on the right,from the main entrence,0
+wilberforce ,lecture theater 29,go straight; 4 rooms past the stairs; turn right; destination on the left,from the main entrence,0
+wilberforce ,FACE hub ,TL180; go straight; destination in front,looking straight from top of stairs,1
+wilberforce ,104 computer rooom,TL180; go straight; destination on right,looking straight from top of stairs,1
+wilberforce ,101 south east asian museum,go straight; take first door on left; destination on left,looking straight from top of stairs,1
+wilberforce ,103 cafe,go straight (past one door on the left); destination on left,looking straight from top of stairs,1
+wilberforce ,lecture theater 1,go straight; destination on right,looking straight from top of stairs,1
+wilberforce ,lecture theater 2,go straight (past one door on the right); through 1st and 2nd door; destination on right,looking straight from top of stairs,1
+wilberforce ,lecture room 32,go straight (past 2 doors on the left); take first left; destination on left,looking straight from top of stairs,1
+wilberforce ,lecture room 33,go straight (past 2 doors on the left); take first left; destination on right,looking straight from top of stairs,1
+wilberforce ,lecture room 34,go straight (past 3 doors on the left); through 1st and 2nd door; destination on left,looking straight from top of stairs,1
+wilberforce ,DIS FACE hub ,turn right; turn left; go straight (past 1 door on the right); through double doors; turn right; go straight (past 1 door on the right); destination infront,exiting the lift on the first floor,1
+wilberforce ,DIS 104 computer rooom,turn right; turn left; go straight (past 1 door on the right); through double doors; turn right; go straight; destination on left,exiting the lift on the first floor,1
+wilberforce ,DIS 101 south east asian museum,turn right; turn left; go straight; destination on right,exiting the lift on the first floor,1
+wilberforce ,DIS 103 cafe,turn right; turn left; go straight (past 1 door on the right); through double doors; turn left; go straight; destination on left,exiting the lift on the first floor,1
+wilberforce ,DIS lecture theater 1,turn right; turn left; go straight (past 1 door on the right); through double doors; turn left; go straight (past 1 door on the left); destination on right,exiting the lift on the first floor,1
+wilberforce ,DIS lecture theater 2,turn right; turn left; go straight (past 1 door on the right); through double doors; turn left; go straight (past 1 door on the left); through 1st and 2nd door; destination on right,exiting the lift on the first floor,1
+wilberforce ,DIS lecture room 32,turn right; turn left; go straight (past 1 door on the right); through double doors; turn left; go straight (past 1 door on the left); through 1st and 2nd door; go straight; take first left; destination on right,exiting the lift on the first floor,1
+wilberforce ,DIS lecture room 33,turn right; turn left; go straight (past 1 door on the right); through double doors; turn left; go straight (past 1 door on the left); through 1st and 2nd door; go straight; take first left; destination on left,exiting the lift on the first floor,1
+wilberforce ,DIS lecture room 34,turn right; turn left; go straight (past 1 door on the right); through double doors; turn left; go straight (past 1 door on the left); through 1st and 2nd door; go straight (past 1 door on the left); destination on left,exiting the lift on the first floor,1
+wilberforce ,DIS lift,go straight (past the stairs); go straight (past 1 door on the left); turn left; go straight; turn right; destination on left,entrance,0

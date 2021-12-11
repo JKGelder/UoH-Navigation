@@ -9,3 +9,5 @@ E:\Uni\#Y2T1\Systems Analysis\Course work\Windows Form\UoH Navigation 2\UoH Navi
 E:\Uni\#Y2T1\Systems Analysis\Course work\Windows Form\UoH Navigation 2\UoH Navigation 2\obj\Debug\UoH Navigation 2.csproj.CoreCompileInputs.cache
 E:\Uni\#Y2T1\Systems Analysis\Course work\Windows Form\UoH Navigation 2\UoH Navigation 2\obj\Debug\UoH Navigation 2.exe
 E:\Uni\#Y2T1\Systems Analysis\Course work\Windows Form\UoH Navigation 2\UoH Navigation 2\obj\Debug\UoH Navigation 2.pdb
+E:\Uni\#Y2T1\Systems Analysis\Course work\Windows Form\UoH Navigation 2\UoH Navigation 2\obj\Debug\UoH_Navigation_2.Form2.resources
+E:\Uni\#Y2T1\Systems Analysis\Course work\Windows Form\UoH Navigation 2\UoH Navigation 2\obj\Debug\UoH_Navigation_2.Form3.resources
